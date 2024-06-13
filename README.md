@@ -7,11 +7,11 @@ I develop websites, web applications in a modern style. I enjoy improving in Rea
 
 - 🔭 I’m currently working on [Project Manager](https://github.com/jakubpetrikcz/project-manager)
 
-- 🌱 I’m currently learning **Next.js , React , TypeScript**
+- 🌱 I’m currently learning **Next.js, React, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://jakubpetrik.cz/](https://jakubpetrik.cz/)
 
-- 💬 Ask me about **React , TypeScript , Redux**
+- 💬 Ask me about **React, TypeScript, Redux**
 
 - 📫 How to reach me **info@jakubpetrik.cz**
 
