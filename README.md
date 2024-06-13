@@ -1,5 +1,9 @@
-<h1>Hi 👋, I'm Jakub Petřík</h1>
-<h3>A passionate frontend developer</h3>
+![Design and Development](https://github.com/jakubpetrikcz/jakubpetrikcz/blob/master/banner.jpeg)
+
+<h1>I'm Jakub Petrik</h1>
+I develop websites, web applications in a modern style. I enjoy improving in React and always try to find the best solution for the problem. 🧠
+
+<h2>Activity</h2>
 
 - 🔭 I’m currently working on [Project Manager](https://github.com/jakubpetrikcz/project-manager)
 
@@ -11,13 +15,13 @@
 
 - 📫 How to reach me **info@jakubpetrik.cz**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me</h2>
 <p align="left">
 <a href="https://linkedin.com/in/jakubpetrikcz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakubpetrikcz" height="30" width="40" /></a>
 <a href="https://twitter.com/jakubpetrikcz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jakubpetrikcz" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools</h2>
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -45,6 +49,7 @@
   </a> 
 </p>
 
+<h2 align="left">Statistics</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakubpetrikcz&show_icons=true&locale=en&layout=compact" alt="jakubpetrikcz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakubpetrikcz&show_icons=true&locale=en" alt="jakubpetrikcz" /></p>
